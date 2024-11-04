@@ -1,5 +1,5 @@
 
-app = "shopping-list-main-w-nqjg"
+app = "shopping-list-main-m-olja"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
